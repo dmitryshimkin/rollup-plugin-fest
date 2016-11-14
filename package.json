@@ -1,0 +1,26 @@
+{
+  "name": "rollup-plugin-fest",
+  "version": "1.0.0",
+  "description": "Rollup plugin to compile fest templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitryshimkin/rollup-plugin-fest.git"
+  },
+  "keywords": [
+    "rollup-plugin"
+  ],
+  "author": "Dmitry Shimkin <dmitryshimkin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitryshimkin/rollup-plugin-fest/issues"
+  },
+  "homepage": "https://github.com/dmitryshimkin/rollup-plugin-fest#readme",
+  "dependencies": {
+    "fest": "0.12.1",
+    "rollup-pluginutils": "1.5.2"
+  }
+}
